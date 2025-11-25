@@ -30,3 +30,4 @@ Static site hosting user data deletion page for Rebix Mrkg. Skincare Stories app
     </a>.
   </p>
 </body>
+</html>
